@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="btn_trackOff">Start Tracking</string>
+    <string name="btn_trackOn">Stop Tracking</string>
+</resources>
